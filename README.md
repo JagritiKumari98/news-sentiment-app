@@ -1,3 +1,4 @@
+ HEAD
 📰 News Sentiment Analyzer
 This project is a News Summarization and Sentiment Analysis App with Text-to-Speech (TTS) in Hindi. It extracts news articles from multiple sources, analyzes sentiment, summarizes key points, and converts text into speech using AI/ML techniques.
 
@@ -47,3 +48,17 @@ Open http://127.0.0.1:5000 in your browser.
 
 🌍 Deployment
 Hosted on Hugging Face Spaces for easy access.
+
+title: News Sentiment App
+emoji: 🏢
+colorFrom: green
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
+license: mit
+short_description: 'News Sentiment Analyzer: Extracts, summarizes, and analyzes '
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+91c7fda (initial commit)
