@@ -1,0 +1,21 @@
+initial commit
+# Conflicts:
+#	README.md
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Jagriti Singh <Jagritikumari98@users.noreply.huggingface.co>
+#
+# interactive rebase in progress; onto 7b453cf
+# Last command done (1 command done):
+#    pick 91c7fda initial commit
+# Next commands to do (5 remaining commands):
+#    pick 849e5bc Initial commit - Added all project files
+#    pick 6ca84a1 Updated README with project details
+# You are currently rebasing branch 'main' on '7b453cf'.
+#
+# Changes to be committed:
+#	new file:   .gitattributes
+#	modified:   README.md
+#
